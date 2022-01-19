@@ -1,6 +1,6 @@
 # Allah Names
 Allah Name is a web application that provides the 99 names of Allah(God) and their benefits.
-This is the frontend of the application and the backend can be found at https://github.com/surdy-A/allah-name-back
+This is the frontend of the application and the backend can be found at https://github.com/surdy-A/allah-names-backend.
 
 ## ✨ [Demo](https://dua-book.surge.sh/)
 
@@ -19,7 +19,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
@@ -32,8 +31,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## Contribution
 
